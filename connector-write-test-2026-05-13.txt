@@ -1,0 +1,3 @@
+GitHub connector write test
+Created by ChatGPT on 2026-05-13.
+This file can be deleted after verifying connector permissions.
